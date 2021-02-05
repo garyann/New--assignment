@@ -13,7 +13,7 @@
 </head>
 <body>
     <div>
-        <h1 style="background:red">Hello</h1>
+        <h1 style="background:brown">Hello</h1>
         <h1> Hi am style </h1>
     </div>
 </body>
